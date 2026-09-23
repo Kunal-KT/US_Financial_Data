@@ -144,27 +144,15 @@ Use environment variables or a local credential file instead.
 
 ## 📁 Recommended Repository Structure
 
-```text
 Financial-Analytics-PowerBI/
 │
-├── README.md
-│
-├── python/
-│   └── google_drive_etl.py
+├── README.md - https://github.com/Kunal-KT/US_Financial_Data/blob/main/README.md
 │
 ├── powerbi/
-│   └── Financial_Project1.pbix
+│   └── Financial_Project - https://github.com/Kunal-KT/US_Financial_Data/blob/main/Financial_Project1.pbix
 │
 ├── screenshots/
-│   └── dashboard.png
-│
-├── data/
-│   └── README.md
-│
-├── requirements.txt
-│
-└── .gitignore
-```
+│   └── dashboard - https://github.com/Kunal-KT/US_Financial_Data/blob/main/Screenshot%202026-09-23%20105305.png
 
 ---
 
@@ -341,6 +329,8 @@ Potential improvements include:
 
 ## 👨‍💻 Author
 
-**Kunal Thakur**
+**Kunal Singh**
+- GitHub: https://github.com/Kunal-KT
+- LinkedIn: https://www.linkedin.com/in/kunal0306/
 
 Data Analyst | Python | SQL | Power BI | Pandas | DAX
