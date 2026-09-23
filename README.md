@@ -147,10 +147,10 @@ Use environment variables or a local credential file instead.
 Financial-Analytics-PowerBI/
 │
 ├── README.md - https://github.com/Kunal-KT/US_Financial_Data/blob/main/README.md
-│
+
 ├── powerbi/
-│   └── Financial_Project - https://github.com/Kunal-KT/US_Financial_Data/blob/main/Financial_Project1.pbix
-│
+   └── Financial_Project - https://github.com/Kunal-KT/US_Financial_Data/blob/main/Financial_Project1.pbix
+   
 ├── screenshots/
 │   └── dashboard - https://github.com/Kunal-KT/US_Financial_Data/blob/main/Screenshot%202026-09-23%20105305.png
 
